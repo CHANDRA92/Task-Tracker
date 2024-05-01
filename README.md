@@ -20,5 +20,5 @@ You can access the live demo of the Task Tracker application [here](https://task
 
    ```bash
    git clone https://github.com/your-username/task-tracker.git
-## Privew
+## Preview
 ![Preview Image](https://github.com/CHANDRA92/Task-Tracker/blob/main/src/assets/demoSS.png)
